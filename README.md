@@ -45,7 +45,7 @@ represent any real organisation.
 ![Comparative Dashboard](screenshots/comparative-dashboard.png)
 
 ### Benchmark Analysis
-![Benchmark Dashboard](screenshots/benchmark-dashboard.png)
+screenshots/Benchmark Dashboard.png
 
 ## Live Dashboard
 Power BI Service link: *(available upon request)*
