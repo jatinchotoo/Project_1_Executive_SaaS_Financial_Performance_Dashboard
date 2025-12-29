@@ -29,3 +29,10 @@ analytics, dashboard design, and executive reporting capability.
 ## Data Disclaimer
 All data used in this dashboard is simulated or anonymised and does not
 represent any real organisation.
+
+## Dashboard Preview
+
+![Executive Summary](screenshots/executive-summary.png)
+![Financial Performance](screenshots/financial-performance.png)
+![Ratios and Risk](screenshots/ratios-risk.png)
+![Comparatives](screenshots/comparatives.png)
