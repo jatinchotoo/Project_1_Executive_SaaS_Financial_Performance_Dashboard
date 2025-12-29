@@ -48,18 +48,23 @@ represent any real organisation.
 
 ### Executive Summary
 ![Executive Summary](screenshots/Executive%20summary.png)
+*High-level KPIs for board reporting, including revenue, profitability, and risk signals for quick decision-making.*
 
 ### Revenue Analysis
 ![Revenue Analysis](screenshots/Revenue%20Analysis.png)
+*Breakdown of MRR and ARR by plan tier, showing subscription growth, retention, and billing cycle distribution.*
 
 ### Ratios Overview
 ![Ratios Overview](screenshots/Ratios%20Overview.png)
+*Key financial ratios such as ROE, Debt-to-Equity, and Current Ratio, benchmarked across companies and years.*
 
 ### Comparative Dashboard
 ![Comparative Dashboard](screenshots/Comparative%20Dashboard.png)
+*Side-by-side comparison of company performance, highlighting profitability trends, leverage, and liquidity metrics.*
 
 ### Benchmark Dashboard
 ![Benchmark Dashboard](screenshots/Benchmark%20Dashboard.png)
+*Benchmarking view with gauge charts for critical metrics (ROE, margins, debt ratios), enabling quick performance checks against targets.*
 
 ## Live Dashboard
 Power BI Service link: *(available upon request)*
