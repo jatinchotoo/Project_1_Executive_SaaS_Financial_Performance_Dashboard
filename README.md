@@ -48,7 +48,7 @@ High‑level KPIs designed for board and executive reporting:
 - Capital efficiency indicators
 - Risk status signals
 
-![Executive Summary](screenshots/Executive%20Summary.png)
+![Executive Dashboard Preview](screenshots/Executive_summary.png)
 
 ---
 
