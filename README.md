@@ -6,15 +6,15 @@ Recruiters and executives can immediately see **CFO-ready visuals**:
 
 | Executive Overview | Revenue & Growth Analysis |
 |------------------|--------------------------|
-| ![Executive Summary](screenshots/Executive_summary.png) | ![Revenue Analysis](screenshots/Revenue Analysis.png) |
+| ![Executive Summary](screenshots/Executive_summary.png) | ![Revenue Analysis](screenshots/Revenue_Analysis.png) |
 
 | Capital Ratios & Risk | Benchmark / Hurdle-Rate Accountability |
 |---------------------|--------------------------------------|
-| ![Ratios Overview](screenshots/Ratios Overview.png) | ![Benchmark Dashboard](screenshots/Benchmark Dashboard.png) |
+| ![Ratios Overview](screenshots/Ratios_Overview.png) | ![Benchmark Dashboard](screenshots/Benchmark_Dashboard.png) |
 
 | Comparative Entity Performance |
 |-------------------------------|
-| ![Comparative Dashboard](screenshots/Comparative Dashboard.png) |
+| ![Comparative Dashboard](screenshots/Comparative_Dashboard.png) |
 
 *All dashboards are taken directly from the Power BI PBIX file. These visuals demonstrate governance, capital discipline, and entity-level decision support.*
 
@@ -106,7 +106,7 @@ Subscription-focused analytics covering:
 *Decision enabled:*  
 **Which revenue streams justify continued investment?**
 
-*(See: `screenshots/Revenue Analysis.png`)*
+*(See: `screenshots/Revenue_Analysis.png`)*
 
 ---
 
@@ -121,7 +121,7 @@ Side-by-side entity comparison of:
 *Decision enabled:*  
 **Where is capital underperforming or over-leveraged?**
 
-*(See: `screenshots/Ratios Overview.png`)*
+*(See: `screenshots/Ratios_Overview.png`)*
 
 ---
 
@@ -132,7 +132,7 @@ Gauge-based benchmarking against internal ROE targets.
 *Decision enabled:*  
 **Which entities require intervention, restructuring, or capital reallocation?**
 
-*(See: `screenshots/Benchmark Dashboard.png`)*
+*(See: `screenshots/Benchmark_Dashboard.png`)*
 
 ---
 
@@ -140,7 +140,7 @@ Gauge-based benchmarking against internal ROE targets.
 
 Direct side-by-side comparison of entity-level KPIs to identify underperformance.
 
-*(See: `screenshots/Comparative Dashboard.png`)*
+*(See: `screenshots/Comparative_Dashboard.png`)*
 
 ---
 
@@ -177,10 +177,10 @@ Project_1_Executive_SaaS_Financial_Performance_Dashboard/
 │  └─ Financial_Raw_Data.csv.xlsx
 ├─ screenshots/
 │  ├─ Executive_summary.png
-│  ├─ Revenue Analysis.png
-│  ├─ Ratios Overview.png
-│  ├─ Benchmark Dashboard.png
-│  └─ Comparative Dashboard.png
+│  ├─ Revenue_Analysis.png
+│  ├─ Ratios_Overview.png
+│  ├─ Benchmark_Dashboard.png
+│  └─ Comparative_Dashboard.png
 ├─ scripts/
 │  └─ measures.dax
 ├─ Project1-Dashboard.pbix
